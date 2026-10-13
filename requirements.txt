@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+pyjwt
+python-dotenv
+google-auth
+requests
+python-multipart
+pypdf
+groq
+google-genai

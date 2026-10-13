@@ -1,0 +1,12 @@
+{
+  "appId": "com.campushub.app",
+  "appName": "CampusHub",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

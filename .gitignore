@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+.env
+*.db
+*.pyc
+venv/
+assets/
+mobile/node_modules/
+.env.example

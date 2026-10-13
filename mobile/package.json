@@ -1,0 +1,20 @@
+{
+  "name": "campushub-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CampusHub mobile app (web app wrapped with Capacitor for Android Studio)",
+  "scripts": {
+    "serve": "python -m http.server 5173 --directory www",
+    "icons": "capacitor-assets generate --android",
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}

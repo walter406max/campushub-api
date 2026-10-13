@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit>=1.37
+sqlalchemy
+pydantic[email]
+python-dotenv
+requests
+pandas
+PyJWT
+pypdf
+python-multipart
+google-genai
+groq
+google-auth

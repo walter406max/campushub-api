@@ -11,3 +11,4 @@ python-multipart
 pypdf
 groq
 google-genai
+psycopg[binary]

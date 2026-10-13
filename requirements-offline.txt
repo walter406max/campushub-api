@@ -12,3 +12,4 @@ python-multipart
 google-genai
 groq
 google-auth
+
